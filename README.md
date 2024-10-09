@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://raw.githubusercontent.com/avipatilpro/avipatilpro/master/Hi.gif" width="48"></a> , I'm AAYUSH PATILH</h1>
+<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://raw.githubusercontent.com/avipatilpro/avipatilpro/master/Hi.gif" width="48"></a> , I'm RAFIK SHAH</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;Cloud+Engineer;AI+Engineer;YouTuber;Streamer;Editor;" alt="Typing SVG" />
@@ -23,17 +23,17 @@
     </td>
     <td align="center">
       <a href="https://www.instagram.com/mr_.rafik/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fmr_.rafik%2F&subtitle=@mr_.rafik&size=square" alt="AAYUSH PATILH">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fmr_.rafik%2F&subtitle=@mr_.rafik&size=square" alt="RAFIK SHAH">
       </a>
     </td>
     <td align="center">
       <a href="https://www.linkedin.com/in/rafik-shah-179875209/" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frafik-shah-179875209%2F&subtitle=@Rafik+Shah&size=square" alt="AAYUSH PATILH">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frafik-shah-179875209%2F&subtitle=@Rafik+Shah&size=square" alt="RAFIK SHAH">
       </a>
     </td>
    <td align="center">
-  <a href="https://github.com/AAYUSH PATIL" target="_blank">
-    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FAAYUSH PATIL&subtitle=AAYUSH PATIL&size=square" alt="AAYUSH PATIL">
+  <a href="https://github.com/aayushpatil25" target="_blank">
+    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2Faayushpatil25&subtitle=aayushpatil25&size=square" alt="aayushpatil25">
   </a>
 </td>
 
@@ -45,7 +45,7 @@
 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=AAYUSH PATIL&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" style="width: 200px; height: 35px;">
+  <img src="https://komarev.com/ghpvc/?username=aayushpatil25&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" style="width: 200px; height: 35px;">
 </p>
 
 
@@ -56,121 +56,57 @@ As a versatile Computer Engineer and Full-Stack Developer, I specialize in Cloud
 
 <h3 align="center">Git Stats</h3>
 <div align="center">
- <img src="https://streak-stats.demolab.com?user=RA## Hi there 👋
-
-<!--
-**aayushpatil25/aayushpatil25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## Hi there 👋
-
-<!--
-**aayushpatil25/aayushpatil25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-FIKSHA&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
+ <img src="https://streak-stats.demolab.com?user=aayushpatil25&theme=highcontrast&hide_border=true" alt="GitHub Streak" />
 
 <br>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AAYUSH PATIL&custom_title=AAYUSH PATIL's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=aayushpatil25&custom_title=aayushpatil25's%20GitHub%20Activity%20Graph&hide_border=true&border_radius=15&bg_color=000000&color=FFD700&line=1E90FF&point=1E90FF&area_color=000000&title_color=FFD700&area=true" alt="GitHub Activity Graph" />
 
 <br>
 <div align="center">
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AAYUSH PATIL&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aayushpatil25&hide=html&hide_border=true&layout=compact&langs_count=8&theme=highcontrast" alt="Top Languages">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AAYUSH PATIL&theme=highcontrast&hide_border=true" alt="Repos Per Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aayushpatil25&theme=highcontrast&hide_border=true" alt="Repos Per Language">
     </td>
     <td>
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=AAYUSH PATIL&theme=highcontrast&hide_border=true" alt="Most Commit Language">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=aayushpatil25&theme=highcontrast&hide_border=true" alt="Most Commit Language">
     </td>
   </tr>
 </table>
 
 </div>
 
-<img src="https://github-readme-stats.vercel.app/api?username=AAYUSH PATIL&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="AAYUSH PATIL's GitHub stats">
+<img src="https://github-readme-stats.vercel.app/api?username=aayushpatil25&hide_border=true&border_radius=15&show_icons=true&theme=highcontrast" alt="aayushpatil25's GitHub stats">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AAYUSH PATIL&theme=highcontrast&hide_border=true" alt="AAYUSH PATIL's Profile Details">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aayushpatil25&theme=highcontrast&hide_border=true" alt="aayushpatil25's Profile Details">
 
 ### Top Repositories
 <div align="center">
   <table>
     <tr>
       <td>
-        <a href="https://github.com/AAYUSH PATIL/fast-gemini-nano">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AAYUSH PATIL&repo=fast-gemini-nano&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/aayushpatil25/fast-gemini-nano">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aayushpatil25&repo=fast-gemini-nano&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/AAYUSH PATIL/Weather-3d-ai-app.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AAYUSH PATIL&repo=Weather-3d-ai-app&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/aayushpatil25/Weather-3d-ai-app.git">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aayushpatil25&repo=Weather-3d-ai-app&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
-      </td>## Hi there 👋
-
-<!--
-**aayushpatil25/aayushpatil25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-## Hi there 👋
-
-<!--
-**aayushpatil25/aayushpatil25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+      </td>
     </tr>
     <tr>
       <td>
-        <a href="https://github.com/AAYUSH PATIL/moviedjangoai">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AAYUSH PATIL&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/aayushpatil25/moviedjangoai">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aayushpatil25&repo=moviedjangoai&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
       <td>
-        <a href="https://github.com/AAYUSH PATIL/speech-to-text.git">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=AAYUSH PATIL&repo=speech-to-text&theme=highcontrast&hide_border=true&border_radius=15" />
+        <a href="https://github.com/aayushpatil25/speech-to-text.git">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=aayushpatil25&repo=speech-to-text&theme=highcontrast&hide_border=true&border_radius=15" />
         </a>
       </td>
     </tr>
@@ -178,8 +114,8 @@ Here are some ideas to get you started:
 </div>
 
 ### GitHub Contribution Chart
-<a href="https://github.com/AAYUSH PATIL">
-    <img src="https://ghchart.rshah.org/AAYUSH PATIL" alt="AAYUSH PATIL's GitHub Contribution Chart">
+<a href="https://github.com/aayushpatil25">
+    <img src="https://ghchart.rshah.org/aayushpatil25" alt="aayushpatil25's GitHub Contribution Chart">
 </a>
 
 
@@ -190,26 +126,26 @@ Here are some ideas to get you started:
     <img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />
   </summary>
   
-  <img src="https://myreadme.vercel.app/api/embed/AAYUSH PATIL?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="AAYUSH PATIL's GitHub Stats">
+  <img src="https://myreadme.vercel.app/api/embed/aayushpatil25?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="aayushpatil25's GitHub Stats">
 
-  <img src="https://github-readme-bento.vercel.app/stats/AAYUSH PATIL?theme=dark" alt="AAYUSH PATIL's GitHub Stats">
+  <img src="https://github-readme-bento.vercel.app/stats/aayushpatil25?theme=dark" alt="aayushpatil25's GitHub Stats">
 </details>
 
 <br>
 
-### AAYUSH PATIL/README.md activity
+### aayushpatil25/README.md activity
 <img width="100%" src="https://repobeats.axiom.co/api/embed/48c98af9cae40b4ae2cf354a0f544a52eb743a9f.svg" alt="Repobeats analytics" title="Repobeats analytics image" />
 
-<!-- [![Forkers repo roster for @AAYUSH PATIL/AAYUSH PATIL](https://reporoster.com/forks/dark/AAYUSH PATIL/AAYUSH PATIL)](https://github.com/AAYUSH PATIL/AAYUSH PATIL/network/members)-->
+<!-- [![Forkers repo roster for @aayushpatil25/aayushpatil25](https://reporoster.com/forks/dark/aayushpatil25/aayushpatil25)](https://github.com/aayushpatil25/aayushpatil25/network/members)-->
 
-<!-- [![Repography](https://reporoster.com/stars/dark/AAYUSH PATIL/AAYUSH PATIL)](https://github.com/AAYUSH PATIL/AAYUSH PATIL)-->
+<!-- [![Repography](https://reporoster.com/stars/dark/aayushpatil25/aayushpatil25)](https://github.com/aayushpatil25/aayushpatil25)-->
 
 <details>
-  <summary><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;GitHub Star History for AAYUSH PATIL&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /></summary>
+  <summary><img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="10" />&nbsp;&nbsp;GitHub Star History for aayushpatil25&nbsp;&nbsp;<img src="https://github.com/SP-XD/SP-XD/blob/main/images/lightning.gif?raw=true" width="12" /></summary>
 
   <h2>Star History Chart</h2>
-  <a href="https://star-history.com/#AAYUSH PATIL/AAYUSH PATIL&Date">
-    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=AAYUSH PATIL/AAYUSH PATIL&type=Date&theme=dark" />
+  <a href="https://star-history.com/#aayushpatil25/aayushpatil25&Date">
+    <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=aayushpatil25/aayushpatil25&type=Date&theme=dark" />
   </a>
 </details>
 
@@ -218,7 +154,7 @@ Here are some ideas to get you started:
 <details>
   <summary style="font-size: 1.17em; font-weight: bold;">🏆 GitHub Profile Trophy</summary>
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=AAYUSH PATIL&no-frame=true&theme=darkhub" alt="GitHub Profile Trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=aayushpatil25&no-frame=true&theme=darkhub" alt="GitHub Profile Trophy">
 </details>
 
 
@@ -272,7 +208,55 @@ Here are some ideas to get you started:
     <!-- Discord Widget Column -->
     <!-- <td align="center" style="border: none;">
       <a href="https://discord.gg/YdDyV6QqEN">
-        <img src="https://invidget.switchblade.xyz/YdDyV6QqEN" alt="Discord Widget">
+        <img src="https://invidget.switchblade.xyz/YdDyV6QqEN" alt<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=110&section=header" width="100%">
+
+
+
+<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://raw.githubusercontent.com/avipatilpro/avipatilpro/master/Hi.gif" width="48"></a> , I'm AAYUSH PATILH</h1>
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;Cloud+Engineer;AI+Engineer;YouTuber;Streamer;Editor;" alt="Typing SVG" />
+
+</p>
+
+<p align="center">
+  Technical Trainer | Coder | Tech Enthusiast
+</p>
+
+<div align="center">
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://www.youtube.com/@Studybrainzofficial" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.youtube.com%2F%40Studybrainzofficial&subtitle=@Studybrainzofficial&size=square" alt="Studybrainz Official">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.instagram.com/mr_.rafik/" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.instagram.com%2Fmr_.rafik%2F&subtitle=@mr_.rafik&size=square" alt="AAYUSH PATILH">
+      </a>
+    </td>
+    <td align="center">
+      <a href="https://www.linkedin.com/in/rafik-shah-179875209/" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Frafik-shah-179875209%2F&subtitle=@Rafik+Shah&size=square" alt="AAYUSH PATILH">
+      </a>
+    </td>
+   <td align="center">
+  <a href="https://github.com/AAYUSH PATIL" target="_blank">
+    <img src="https://bentos.jkominovic.dev/api/v1/bento-cards?url=https%3A%2F%2Fgithub.com%2FAAYUSH PATIL&subtitle=AAYUSH PATIL&size=square" alt="AAYUSH PATIL">
+  </a>
+</td>
+
+  </tr>
+</table>
+
+
+<br>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=AAYUSH PATIL&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile views" style="width: 200px; height: 35px;">
+="Discord Widget">
       </a>
     </td>-->
     <!-- Discord Banner Column -->
@@ -292,27 +276,11 @@ Here are some ideas to get you started:
 
 <h3 align="center">YouTube Stats</h3>
 
-[![Youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCHFZAGz2H5WPK9cmwAxG2Og&layout=extruded&## Hi there 👋
-
-<!--
-**aayushpatil25/aayushpatil25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000)](https://www.youtube.com/channel/UCHFZAGz2H5WPK9cmwAxG2Og)
+[![Youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCHFZAGz2H5WPK9cmwAxG2Og&layout=extruded&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000)](https://www.youtube.com/channel/UCHFZAGz2H5WPK9cmwAxG2Og)
 
 <h3 align="center">Leetcode Stats</h3>
 <p align="center">
-  <img align="center" src="https://leetcard.jacoblin.cool/AAYUSH PATILh2272?border=0&radius=20"/>
+  <img align="center" src="https://leetcard.jacoblin.cool/aayushpatil25h2272?border=0&radius=20"/>
 </p>
 
 
@@ -448,23 +416,7 @@ title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000)](https:/
   <tbody>
     <tr>
       <td align="center" style="border: none;">
-        <img src="https://techstack-generator.verce## Hi there 👋
-
-<!--
-**aayushpatil25/aayushpatil25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-l.app/docker-icon.svg" alt="Docker" width="50" height="50"/><br>Docker
+        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="50" height="50"/><br>Docker
       </td>
       <td align="center" style="border: none;">
         <img src="https://techstack-generator.vercel.app/kubernetes-icon.svg" alt="Kubernetes" width="50" height="50"/><br>Kubernetes
@@ -724,8 +676,8 @@ l.app/docker-icon.svg" alt="Docker" width="50" height="50"/><br>Docker
 <table align="center">
   <tr>
     <td colspan="3" align="center">
-      <a href="mailto:AAYUSH PATILh3262@gmail.com" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=AAYUSH PATILh3262@gmail.com&size=square" alt="Kenan Gain" style="margin: 10px;">
+      <a href="mailto:aayushpatil25h3262@gmail.com" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=aayushpatil25h3262@gmail.com&size=square" alt="Kenan Gain" style="margin: 10px;">
       </a>
     </td>
     <td align="center">
@@ -744,7 +696,7 @@ l.app/docker-icon.svg" alt="Docker" width="50" height="50"/><br>Docker
 <h3>
 <div align="center">
   
-⭐️ From [AAYUSH PATIL](https://github.com/AAYUSH PATIL) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
+⭐️ From [aayushpatil25](https://github.com/aayushpatil25) | Let's innovate together! <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="60px" height="30px">
 
 
 </div>
