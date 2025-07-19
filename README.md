@@ -2,7 +2,7 @@
 
 
 
-<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://raw.githubusercontent.com/avipatilpro/avipatilpro/master/Hi.gif" width="48"></a> , I'm RAFIK SHAH</h1>
+<h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://raw.githubusercontent.com/avipatilpro/avipatilpro/master/Hi.gif" width="48"></a> , I'm Aayush Patil</h1>
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;Cloud+Engineer;AI+Engineer;YouTuber;Streamer;Editor;" alt="Typing SVG" />
@@ -145,7 +145,7 @@
 </div>
 
 <h2 align="center">Socials Stats</h2>
-<div align="center">
+<!-- <div align="center">
   <div align="center">
     <a href="https://www.instagram.com/mr_.rafik/" target="_blank">
       <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" alt="Instagram"/>
@@ -155,8 +155,8 @@
         Follow Me on Instagram
       </a>
     </h3>
-  </div>
-  <table>
+  </div> -->
+<!--   <table>
     <tr>
       <td align="center" style="border: none;">
         <div>
@@ -166,7 +166,7 @@
       </td>
     </tr>
   </table>
-</div>
+</div> -->
 
 <div align="center">
 
@@ -197,12 +197,12 @@
 <h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://raw.githubusercontent.com/avipatilpro/avipatilpro/master/Hi.gif" width="48"></a> , I'm AAYUSH PATILH</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;Cloud+Engineer;AI+Engineer;YouTuber;Streamer;Editor;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Front+Developer;;" alt="Typing SVG" />
 
 </p>
 
 <p align="center">
-  Technical Trainer | Coder | Tech Enthusiast
+  Coder | Tech Enthusiast
 </p>
 
 <div align="center">
