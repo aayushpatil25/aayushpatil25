@@ -256,14 +256,14 @@
 --> 
 
 
-<h3 align="center">YouTube Stats</h3>
+<!--<h3 align="center">YouTube Stats</h3>
 
 [![Youtube stats](https://youtube-stats-card.vercel.app/api?channelid=UCHFZAGz2H5WPK9cmwAxG2Og&layout=extruded&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=000000)](https://www.youtube.com/channel/UCHFZAGz2H5WPK9cmwAxG2Og)
 
 <h3 align="center">Leetcode Stats</h3>
 <p align="center">
   <img align="center" src="https://leetcard.jacoblin.cool/aayushpatil25h2272?border=0&radius=20"/>
-</p>
+</p>-->
 
 
 <h1 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="50px" height="50px"> Tech Stack</h1>
@@ -279,12 +279,12 @@
   </thead>
   <tbody>
     <tr>
-      <td align="center" style="border: none;">
+      <!--<td align="center" style="border: none;">
         <a href="https://nextjs.org/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=nextjs" width="50" height="50" alt="Next.js"/>
         </a>
         <br>Next.js
-      </td>
+      </td>-->
       <td align="center" style="border: none;">
         <a href="https://tailwindcss.com/" style="color: white;">
           <img src="https://cdn.worldvectorlogo.com/logos/tailwindcss.svg" width="50" height="50" alt="Tailwind CSS"/>
@@ -297,24 +297,24 @@
         </a>
         <br>React
       </td>
-      <td align="center" style="border: none;">
+      <!--<td align="center" style="border: none;">
         <a href="https://www.typescriptlang.org/" style="color: white;">
           <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50"/>
         </a>
         <br>TypeScript
-      </td>
+      </td>-->
       <td align="center" style="border: none;">
         <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="color: white;">
           <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50"/>
         </a>
         <br>JavaScript
       </td>
-      <td align="center" style="border: none;">
+      <!--<td align="center" style="border: none;">
         <a href="https://jquery.com/" style="color: white;">
           <img src="https://skillicons.dev/icons?i=jquery" width="50" height="50" alt="jQuery"/>
         </a>
         <br>jQuery
-      </td>
+      </td>-->
       <td align="center" style="border: none;">
         <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="color: white;">
           <img src="https://cdn.worldvectorlogo.com/logos/html-1.svg" width="50" height="50" alt="HTML"/>
@@ -378,15 +378,15 @@
       <td align="center" style="border: none;">
         <img src="https://skillicons.dev/icons?i=postgresql" alt="PostgreSQL" width="50" height="50"/><br>PostgreSQL
       </td>
-      <td align="center" style="border: none;">
+      <!--<td align="center" style="border: none;">
         <img src="https://upload.wikimedia.org/wikipedia/commons/e/e5/Neo4j-logo_color.png" alt="Neo4j" width="100" height="40"/><br>Neo4j
-      </td>
+      </td>-->
     </tr>
   </tbody>
 </table>
 </div>
 
-<h3 align="center">Cloud Computing & DevOps</h3>
+<!--<h3 align="center">Cloud Computing & DevOps</h3>
 
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
@@ -435,9 +435,9 @@
     </tr>
   </tbody>
 </table>
-</div>
+</div>-->
 
-<div align="center">
+<!--<div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
@@ -455,7 +455,7 @@
     </tr>
   </tbody>
 </table>
-</div>
+</div>-->
 
 <h3 align="center">AI/ML & Data Science</h3>
 <div align="center">
@@ -488,7 +488,7 @@
  </table>
 </div>
 
-<div align="center">
+<!--<div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
   <thead>
     <tr>
@@ -509,7 +509,7 @@
     </tr>
   </tbody>
 </table>
-</div>
+</div>-->
 
 
 <h3 align="center"> AI Tools & Prompt Engineering</h3>
@@ -658,13 +658,13 @@
 <table align="center">
   <tr>
     <td colspan="3" align="center">
-      <a href="mailto:aayushpatil25h3262@gmail.com" target="_blank">
-        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=aayushpatil25h3262@gmail.com&size=square" alt="Kenan Gain" style="margin: 10px;">
+      <a href="mailto:patilaayush2503@gmail.com" target="_blank">
+        <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=sigmail&subtitle=patilaayush2503@gmail.com.com&size=square" alt="Kenan Gain" style="margin: 10px;">
       </a>
     </td>
     <td align="center">
-  <a href="https://wa.me/917028352298" target="_blank">
-    <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-7028352298&size=square" alt="India-+91-702-835-2298" style="margin: 10px;">
+  <a href="https://wa.me/917385813515" target="_blank">
+    <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-7028352298&size=square" alt="India-+91-738-581-3515" style="margin: 10px;">
   </a>
 </td>
 
