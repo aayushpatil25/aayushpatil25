@@ -664,7 +664,7 @@
     </td>
     <td align="center">
   <a href="https://wa.me/917385813515" target="_blank">
-    <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-7028352298&size=square" alt="India-+91-738-581-3515" style="margin: 10px;">
+    <img src="https://bentos.jkominovic.dev/api/v1/generic-card?icon=siwhatsapp&subtitle=India-7385813515&size=square" alt="India-+91-738-581-3515" style="margin: 10px;">
   </a>
 </td>
 
