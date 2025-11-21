@@ -546,7 +546,7 @@
 </table>
 </div>
 
-<h3 align="center">Streaming & Video Editing</h3>
+<!--<h3 align="center">Streaming & Video Editing</h3>
 
 <div align="center">
 <table style="background-color: black; color: white; border: none; border-radius: 15px; overflow: hidden;">
