@@ -65,7 +65,7 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aayushpatil25&theme=highcontrast&hide_border=true" alt="aayushpatil25's Profile Details">
 
-### Top Repositories
+<!--### Top Repositories
 <!-- <div align="center">
   <table>
     <tr>
@@ -93,7 +93,7 @@
       </td>
     </tr>
   <!--</table>-->
-<!-- </div> -->
+<!-- </div> -->-->
 
 ### GitHub Contribution Chart
 <a href="https://github.com/aayushpatil25">
