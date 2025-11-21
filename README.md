@@ -5,7 +5,7 @@
 <h1 align="center">Hello &nbsp;<a href="https://avipatilweb.ml/"><img src="https://raw.githubusercontent.com/avipatilpro/avipatilpro/master/Hi.gif" width="48"></a> , I'm Aayush Patil</h1>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;Cloud+Engineer;AI+Engineer;YouTuber;Streamer;Editor;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=9400D3&center=true&vCenter=true&width=435&lines=Computer+Engineer;Full-Stack+Developer;Editor;" alt="Typing SVG" />
 
 </p>
 
@@ -66,7 +66,7 @@
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aayushpatil25&theme=highcontrast&hide_border=true" alt="aayushpatil25's Profile Details">
 
 ### Top Repositories
-<div align="center">
+<!-- <div align="center">
   <table>
     <tr>
       <td>
@@ -77,7 +77,7 @@
       <td>
         <a href="https://github.com/aayushpatil25/Weather-3d-ai-app.git">
           <img src="https://github-readme-stats.vercel.app/api/pin/?username=aayushpatil25&repo=Weather-3d-ai-app&theme=highcontrast&hide_border=true&border_radius=15" />
-        </a>
+        </a> -->
       </td>
     </tr>
     <tr>
@@ -92,8 +92,8 @@
         </a>
       </td>
     </tr>
-  </table>
-</div>
+  <!--</table>-->
+<!-- </div> -->
 
 ### GitHub Contribution Chart
 <a href="https://github.com/aayushpatil25">
